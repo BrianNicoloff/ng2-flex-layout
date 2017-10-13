@@ -27,7 +27,6 @@
   "dependencies": {
   },
   "peerDependencies": {
-    "@angular2-material/core": "2.0.0-alpha.7-4"
   },
   "files": ["dist"],
   "devDependencies": {
